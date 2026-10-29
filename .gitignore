@@ -2,3 +2,6 @@
 *.log
 __pycache__/
 .venv/
+config/synapse/homeserver.yaml
+config/synapse/*.signing.key
+config/synapse/media_store/
